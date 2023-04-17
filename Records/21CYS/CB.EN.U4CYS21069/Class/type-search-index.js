@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"com.amrita.seran","l":"C21CYS69"},{"p":"com.amrita.seran","l":"Calculator"},{"p":"com.amrita.seran","l":"Conversion"},{"p":"<Unnamed>","l":"Main"},{"p":"com.amrita.seran","l":"Pattern"}];updateSearchResults();
